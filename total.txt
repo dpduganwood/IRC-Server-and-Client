@@ -1,0 +1,2 @@
+./test-server1.sh ./IRCServer 8500   : 5   of 5  
+./test-server2.sh ./IRCServer 8500   : 5   of 5  
